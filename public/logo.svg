@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left Person (Deep Blue) - Represents the Volunteer -->
+  <!-- Body curves to form the left side of a heart -->
+  <path d="M256 420 C 120 320, 100 180, 180 140 C 220 120, 256 180, 256 240" 
+        stroke="#1E3A8A" stroke-width="60" stroke-linecap="round" fill="none"/>
+  <circle cx="160" cy="100" r="45" fill="#1E3A8A"/>
+
+  <!-- Right Person (Sky Blue) - Represents the Organizer/Community -->
+  <!-- Body curves to form the right side of a heart -->
+  <path d="M256 420 C 392 320, 412 180, 332 140 C 292 120, 256 180, 256 240" 
+        stroke="#0EA5E9" stroke-width="60" stroke-linecap="round" fill="none"/>
+  <circle cx="352" cy="100" r="45" fill="#0EA5E9"/>
+
+  <!-- Meaning: -->
+  <!-- 1. Two people coming together (Collaboration) -->
+  <!-- 2. Their union forms a perfect Heart shape (Helping/Care) -->
+  <!-- 3. They meet at the center, symbolizing connection -->
+</svg>
