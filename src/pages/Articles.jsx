@@ -263,10 +263,13 @@ const Articles = () => {
                                         <HiCalendar className="text-primary" />
                                         {new Date(article.createdAt).toLocaleDateString()}
                                     </span>
+<<<<<<< HEAD
                                     <span className="flex items-center gap-1">
                                         <HiCalendar className="text-primary" />
                                         {new Date(article.createdAt).toLocaleTimeString()}
                                     </span>                                    
+=======
+>>>>>>> b52e76932b56de1ec9386da244412b1fba18cdee
                                 </div>
 
                                 <button
