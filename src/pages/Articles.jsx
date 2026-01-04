@@ -317,6 +317,11 @@ const Articles = () => {
                                         <HiCalendar className="text-primary" />
                                         <strong>Published:</strong> {new Date(selectedArticle.createdAt).toLocaleDateString()}
                                     </span>
+                                    <span className="flex items-center gap-1">
+                                        <HiCalendar className="text-primary" />
+                                        {new Date(article.createdAt).toLocaleTimeString()}
+                                    </span>
+                                    
                                 </div>
 
                                 <div className="prose max-w-none">
